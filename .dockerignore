@@ -1,0 +1,11 @@
+.git
+.gitignore
+data/
+config.json
+.server.pid
+.server.port
+__pycache__/
+*.pyc
+*.md
+启动.bat
+结束.bat
